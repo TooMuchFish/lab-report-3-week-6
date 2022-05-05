@@ -4,10 +4,10 @@ Date: May 05, 2022
 
 This is my third lab report, welcome.
 
-![welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
+[welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
 
 # 1. Streamlining ssh Configuration
 First step we need to Show the .ssh/config file
 we can simpily use the command "tough config" in our terminal.
 
-![command](https://github.com/TooMuchFish/lab-report-3-week-6/blob/main/lab3p1.png)
+[command](https://github.com/TooMuchFish/lab-report-3-week-6/blob/main/lab3p1.png)
