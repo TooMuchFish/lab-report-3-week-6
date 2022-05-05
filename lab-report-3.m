@@ -9,3 +9,5 @@ This is my third lab report, welcome.
 # 1. Streamlining ssh Configuration
 First step we need to Show the .ssh/config file
 we can simpily use the command "tough config" in our terminal.
+
+![command](https://github.com/TooMuchFish/lab-report-3-week-6/blob/main/lab3p1.png)
