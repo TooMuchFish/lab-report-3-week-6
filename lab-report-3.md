@@ -34,8 +34,11 @@ We open the terminal and use the following command
 ![prepping](lab3p3.png)
 
 # 3. Show an scp command copying a file to our account using just the alias we chosen.
+
 >I create a java file in my VScode and named it cse.java
+>
 >Then I can use the command "scp cse.java ieng6:~/" to scp my cse.java file into the server.
+>
 ![scp](lab3p4.png)
 
 # Thank you
