@@ -18,7 +18,9 @@ We open the terminal and use the following command
 >If not, we can use another command "touch config" to create a config file.
 >
 ![command](lab3p1.png)
+
 >After above steps, we can find the config file in our VScode.
+>
 ![VScode](lab3p2.png)
 Adding to ssh config file, the file that:
 Host ieng6
