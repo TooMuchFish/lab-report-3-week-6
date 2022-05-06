@@ -22,13 +22,15 @@ We open the terminal and use the following command
 >After above steps, we can find the config file in our VScode.
 >
 ![VScode](lab3p2.png)
-Adding to ssh config file, the file that:
-Host ieng6
-    HostName ieng6.ucsd.edu
-    User cs15lsp22aqr
+>
+>Adding to ssh config file, the file that:
+>Host ieng6
+>    HostName ieng6.ucsd.edu
+>    User cs15lsp22aqr
+
 
 # 2. Show the ssh command logging into our account using just the alias we chosen.
-The command we use is "ssh ieng6"
+>The command we use is "ssh ieng6"
 ![prepping](lab3p3.png)
 
 # 3. Show an scp command copying a file to our account using just the alias we chosen.
