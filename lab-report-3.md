@@ -6,7 +6,7 @@ This is my third lab report, welcome.
 
 ![welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
 
-# Show your .ssh/config file, and how you edited it (with VScode, another program, etc)
+# 1.Show .ssh/config file, and how to edited it
 First step we need to Show the .ssh/config file
 We open the terminal and use the following command
 * cd ./.ssh
@@ -21,11 +21,11 @@ Host ieng6
     HostName ieng6.ucsd.edu
     User cs15lsp22aqr
 
-# Show the ssh command logging you into your account using just the alias you chose.
+# 2.Show the ssh command logging you into your account using just the alias you chose.
 The command we use is "ssh ieng6"
 ![prepping](lab3p3.png)
 
-# Show an scp command copying a file to your account using just the alias you chose.
+# 3.Show an scp command copying a file to your account using just the alias you chose.
 I create a java file in my VScode and named it cse.java
 Then i can use the command "scp cse.java ieng6:~/" to scp my cse.java file into the server.
 ![scp](lab3p4.png)
