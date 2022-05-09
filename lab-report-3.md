@@ -59,7 +59,8 @@ We open the terminal and use the following command
 
 # Copy whole directories with scp -r
 >This screen shot show i copied whole markdown-parser file to my ieng6 account
-![copy](lab3p8.png)
+![copy1](lab3p8a.png)
+![copy2](lab3p8b.png)
 >This step show I log in to my remote server and change the cd to markdown-parser file, compile and run the tester file
 ![javac](lab3p9.png)
 > run every thing in one line.
