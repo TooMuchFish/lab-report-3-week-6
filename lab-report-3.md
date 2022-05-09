@@ -44,6 +44,7 @@ We open the terminal and use the following command
 
 # Setup Github Access from ieng6
 for the access from ieng6 from github, we find it by click the setting button and click the `SSH and GPGS`
+![AddSshKey](lab3p5.png)
 
 
 # Copy whole directories with scp -r
