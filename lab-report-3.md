@@ -58,9 +58,10 @@ We open the terminal and use the following command
 >This is a [Link](https://github.com/TooMuchFish/skillde1/commit/e610d2c40cadbd7838ef8d70143ec296453bca34) to commit a question from my `ieng6` remote server.
 
 # Copy whole directories with scp -r
->This screen shot show i copied whole markdown-parser file to my ieng6 account (only screenshot for the beginning, because it is too long)
+>This screen shot show i copied whole markdown-parser file to my ieng6 account (only screenshot for the beginning and ending, because it is too long)
 >`scp -r . cs15lsp22aqr@ieng6.ucsd.edu:~/markdown-parse`
 ![copy1](lab3p8.png)
+![copy2](lab3p80.png)
 
 >This step show I log in to my remote server and change the cd to markdown-parser file, compile and run the tester file
 ![javac](lab3p9.png)
