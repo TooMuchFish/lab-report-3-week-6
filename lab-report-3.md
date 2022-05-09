@@ -67,6 +67,7 @@ We open the terminal and use the following command
 ![javac](lab3p9.png)
 > run every thing in one line.
 ![one](lab3p10.png)
+![output](lab3p11.png)
 
 
 # Thank you
