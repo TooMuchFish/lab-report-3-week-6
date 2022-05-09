@@ -43,9 +43,10 @@ We open the terminal and use the following command
 ![scp](lab3p4.png)
 
 # Setup Github Access from ieng6
-for the access from ieng6 from github, we find it by click the setting button and click the `SSH and GPGS`
+>For the access from ieng6 from github, we find it by click the setting button and click the `SSH and GPGS`
 ![AddSshKey](lab3p5.png)
-
+>The ssh command logging us into our account using just the alias we chose.
+![command]()
 >This is a [Link](https://github.com/TooMuchFish/skillde1/commit/e610d2c40cadbd7838ef8d70143ec296453bca34) to commit a question from my `ieng6` remote server.
 
 # Copy whole directories with scp -r
