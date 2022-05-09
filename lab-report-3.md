@@ -16,7 +16,7 @@ We open the terminal and use the following command
 
 >The above commands will help us to check that weather exist a config file or not.
 >
->If not, we can use another command "touch config" to create a config file.
+>If not, we can use another command `touch config` to create a config file.
 >
 ![command](lab3p1.png)
 
@@ -31,7 +31,7 @@ We open the terminal and use the following command
 
 
 # 2. Show the ssh command logging into our account using just the alias we chosen.
->The command we use is 'ssh ieng6'
+>The command we use is `ssh ieng6`
 ![prepping](lab3p3.png)
 
 # 3. Show an scp command copying a file to our account using just the alias we chosen.
@@ -43,7 +43,7 @@ We open the terminal and use the following command
 ![scp](lab3p4.png)
 
 # Setup Github Access from ieng6
-for the access from ieng6 from github, we find it by click the setting button and click the "SSH and GPGS"
+for the access from ieng6 from github, we find it by click the setting button and click the `SSH and GPGS`
 
 
 # Copy whole directories with scp -r
