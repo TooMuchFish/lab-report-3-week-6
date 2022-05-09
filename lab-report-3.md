@@ -6,7 +6,8 @@
 >
 ![welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
 >
->
+
+# Streamlining ssh Configuration
 # 1. Show .ssh/config file, and how to edited it
 First step we need to Show the .ssh/config file
 We open the terminal and use the following command
@@ -40,6 +41,13 @@ We open the terminal and use the following command
 >Then I can use the command "scp cse.java ieng6:~/" to scp my cse.java file into the server.
 >
 ![scp](lab3p4.png)
+
+# Setup Github Access from ieng6
+for the access from ieng6 from github, we find it by click the setting button and click the "SSH and GPGS"
+
+
+# Copy whole directories with scp -r
+
 
 # Thank you
 >This is the end of my lab report 3. Thanks for your watching.
