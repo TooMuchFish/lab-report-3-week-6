@@ -31,7 +31,7 @@ We open the terminal and use the following command
 
 
 # 2. Show the ssh command logging into our account using just the alias we chosen.
->The command we use is "ssh ieng6"
+>The command we use is 'ssh ieng6'
 ![prepping](lab3p3.png)
 
 # 3. Show an scp command copying a file to our account using just the alias we chosen.
